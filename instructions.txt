@@ -1,0 +1,6 @@
+- Install Angular CLI globally
+    npm install -g @angular/cli
+- Generate an Angular Project
+    ng new conFusion --style=scss
+- Move to the folder and start the server
+    ng serve --open

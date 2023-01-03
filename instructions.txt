@@ -4,3 +4,12 @@
     ng new conFusion --style=scss
 - Move to the folder and start the server
     ng serve --open
+- Configure with following installs
+    npm install @angular/material --save
+    npm install @angular/cdk --save
+    npm install --save @angular/animations
+    npm install --save @angular/flex-layout
+    npm install --save hammerjs
+
+    --legacy-peers-deps may be needed
+- Configure to use material design icons, updating app module and app.component.html and global scss

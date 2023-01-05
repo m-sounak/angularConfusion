@@ -13,3 +13,12 @@
 
     --legacy-peers-deps may be needed
 - Configure to use material design icons, updating app module and app.component.html and global scss
+- Generate a new component
+    ng generate component menu
+- Update tsconfig.json
+    "compilerOptions": {
+        "strictPropertyInitialization": false,
+        ...
+    }
+- Create a Dish class in shared folder.
+- Update menu.components.ts, menu.components.html, app.module.ts 

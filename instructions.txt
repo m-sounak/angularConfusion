@@ -26,3 +26,6 @@
 - Add a new component dishdetail
 - Create classes Dishes and Comments and place the DISHES object in the Dishes of shared folder.
 - Use data binding to show a specific dish when selected.
+- Add a service
+    ng generate service services/dish
+- The service is used to get DISHES. Update app.module.ts and menu.component.ts

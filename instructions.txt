@@ -24,3 +24,5 @@
 - Update menu.components.ts, menu.components.html, app.module.ts 
 - Update with mat-grid-list and mat-card
 - Add a new component dishdetail
+- Create classes Dishes and Comments and place the DISHES object in the Dishes of shared folder.
+- Use data binding to show a specific dish when selected.

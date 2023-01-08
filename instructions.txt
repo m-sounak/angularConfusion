@@ -29,3 +29,8 @@
 - Add a service
     ng generate service services/dish
 - The service is used to get DISHES. Update app.module.ts and menu.component.ts
+- Install font awesome
+    npm install font-awesome@4.7.0 --save
+- Add a _variables.scss file in src folder
+    $fa-font-path : '../node_modules/font-awesome/fonts';
+- Generate and design header and footer component

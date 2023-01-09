@@ -34,3 +34,10 @@
 - Add a _variables.scss file in src folder
     $fa-font-path : '../node_modules/font-awesome/fonts';
 - Generate and design header and footer component
+- Generate components about, home, contact
+- Generate app-routing module
+    ng generate module app-routing
+- Create a routes.ts file and code the routes
+- Update the app-routing.ts file 
+- Add <router-outlet> in the app.component.html
+- Update the header links with the routerLink

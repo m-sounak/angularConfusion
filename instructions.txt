@@ -47,3 +47,7 @@
     ng generate service service/promotion
 - Update the home component to show featured dish and promotion (ts and html file)
 - Highlight the current component using routerLinkActive="active" class
+- Update routes to take parameter in dishdetail
+    { path: 'dishdetail/:id', component: DishdetailComponent },
+- Update dishdetail as a separate page and not in menu
+- Update dishdetail.ts to accept params and goBack function 

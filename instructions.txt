@@ -51,3 +51,6 @@
     { path: 'dishdetail/:id', component: DishdetailComponent },
 - Update dishdetail as a separate page and not in menu
 - Update dishdetail.ts to accept params and goBack function 
+- Create a new Leader service and Leader class and LEADERS const.
+- Use leader service to display leaders in about component
+- Use leader service to display featured leader in home component

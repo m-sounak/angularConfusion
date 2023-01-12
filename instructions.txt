@@ -54,3 +54,6 @@
 - Create a new Leader service and Leader class and LEADERS const.
 - Use leader service to display leaders in about component
 - Use leader service to display featured leader in home component
+- Create a button in header to get to login dialog box
+- Create a login component
+- Make it a dialog box using MatDialog

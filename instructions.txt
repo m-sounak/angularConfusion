@@ -57,3 +57,7 @@
 - Create a button in header to get to login dialog box
 - Create a login component
 - Make it a dialog box using MatDialog
+- Make necessary imports in app module for forms
+- Update the login template file to take username, password and remember and dynamically show it.
+- Code onSubmit() in ts file.
+- public dialogRef: MatDialogRef<LoginComponent> handles the dialog box.

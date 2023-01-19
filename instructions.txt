@@ -61,3 +61,5 @@
 - Update the login template file to take username, password and remember and dynamically show it.
 - Code onSubmit() in ts file.
 - public dialogRef: MatDialogRef<LoginComponent> handles the dialog box.
+- Create form validation on client side. Code in template file.
+- Update tsconfig with "noPropertyAccessFromIndexSignature": false,

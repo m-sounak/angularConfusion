@@ -63,3 +63,7 @@
 - public dialogRef: MatDialogRef<LoginComponent> handles the dialog box.
 - Create form validation on client side. Code in template file.
 - Update tsconfig with "noPropertyAccessFromIndexSignature": false,
+- Make necessary imports in app module for reactive forms.
+- Make a class feedback.ts in shared
+- Create form group and necessary onSubmit and other functions in contact.ts
+- Update the html

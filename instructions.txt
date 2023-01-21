@@ -67,3 +67,4 @@
 - Make a class feedback.ts in shared
 - Create form group and necessary onSubmit and other functions in contact.ts
 - Update the html
+- Update for form validation in ts and html

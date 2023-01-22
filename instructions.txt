@@ -68,3 +68,4 @@
 - Create form group and necessary onSubmit and other functions in contact.ts
 - Update the html
 - Update for form validation in ts and html
+- Make services to use promises
